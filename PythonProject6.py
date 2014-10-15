@@ -35,7 +35,7 @@ def factorial(num2):
 #Write a program, using a for loop, that will find all the factors of a given number.
 #A factor is something that will divide evenly into our given number. For example, the factors of 10 are 1, 2, 5 and 10, as each of these numbers divides evenly into 10.
 
-print "Enter a number to get the factors"
 
-factorList = [1,n]
-def factors(n):
+print "Enter a number"
+def factors(x):
+    
